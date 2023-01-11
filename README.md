@@ -20,3 +20,13 @@ The sales and weather data are daily observations, from January 2012 to
 October 2014.
 You should use the observations from the years 2012-2013 as your training
 data, and the observations from the year 2014 as your test data.
+
+ML3 is similar to ML2 but the data is different, USA elections, and has different goals, it also has and additional implementation of dimensionality reduction algorthims and adding new features based on existing ones
+
+About the data:
+
+You have been provided with data regarding US elections, general county
+information, life expectancies, economic data and more. The variables
+description can be found in the data-variables-description.pdf file. In
+addition, the background-information.pdf file provides information
+regarding the US elections system in case you are not familiar with it.
